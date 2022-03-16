@@ -27,7 +27,7 @@ Understanding the Problem
 
 Dividing data and sampling training/testing set to balance the output variable.
  
-![image](https://user-images.githubusercontent.com/72390323/158182486-543d7bd6-4485-4ef9-b714-d665adc1aa64.png)
+![image](https://user-images.githubusercontent.com/72390323/158572758-907dc451-c280-4e81-b62e-aa1e77e1d480.png)
 
 
 Algorithms Used For Classification
@@ -41,11 +41,19 @@ Algorithms Used For Classification
 ### Top performing models
 1.	AdaBoost
 
-![image](https://user-images.githubusercontent.com/72390323/158182949-5c0df8a9-88b9-4636-9717-f17f52e7704a.png)
- 
+![image](https://user-images.githubusercontent.com/72390323/158572278-3dee11b7-8889-4590-bf1f-86f1e2636db6.png)
+
+![image](https://user-images.githubusercontent.com/72390323/158572347-f9e096f2-c5c2-4d11-babd-5fe289fa7c3b.png)
+
 2.	Gradient Boosting
 
-![image](https://user-images.githubusercontent.com/72390323/158183014-9a325d5e-bfd3-4e37-ac5e-ec40be8f3902.png)
+![image](https://user-images.githubusercontent.com/72390323/158572443-30f544b4-b1a8-4bbe-b50b-53c282c6f297.png)
+
+3. Random Forest
+
+![image](https://user-images.githubusercontent.com/72390323/158571637-4214e817-d59a-4450-8b40-456e70826ca6.png)
+
+![image](https://user-images.githubusercontent.com/72390323/158572000-bd8cb0e0-1997-4060-8a62-59a1d7dc02e5.png)
 
 ### Summary
 
