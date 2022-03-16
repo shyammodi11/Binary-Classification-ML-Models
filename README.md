@@ -1,6 +1,6 @@
 # Binary-Classification-ML-Models
 
-## CREDIT CARD FRAUD DETECTION
+## [CREDIT CARD FRAUD DETECTION](https://github.com/shyammodi11/Binary-Classification-ML-Models/blob/main/CREDIT_CARD.ipynb)
 
 Understanding the Problem
 
